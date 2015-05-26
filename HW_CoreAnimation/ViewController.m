@@ -18,14 +18,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSString *path = [[NSBundle mainBundle] pathForResource:@"anim" ofType:@"gif"];
-    NSData *data = [NSData dataWithContentsOfFile:path];
-    FLAnimatedImage *image = [FLAnimatedImage animatedImageWithGIFData:data];
-    FLAnimatedImageView *imageView = [[FLAnimatedImageView alloc] init];
-    imageView.animatedImage = image;
-    imageView.frame = self.view.bounds;
-    imageView.autoresizingMask = UIViewAutoresizingFlexibleHeight | UIViewAutoresizingFlexibleWidth;
-    [self.view addSubview:imageView];
 }
 
 - (void)didReceiveMemoryWarning {

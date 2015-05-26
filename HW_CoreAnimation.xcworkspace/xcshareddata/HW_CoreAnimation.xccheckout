@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B4490DE-CB3D-4BC5-8E26-CEDEE1637E51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HW_CoreAnimation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>89E4287E33AA91205C632CDFDB0E6E36C25A0109</key>
+		<string>https://github.com/mishingena/HW_CoreAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HW_CoreAnimation.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>89E4287E33AA91205C632CDFDB0E6E36C25A0109</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mishingena/HW_CoreAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>89E4287E33AA91205C632CDFDB0E6E36C25A0109</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89E4287E33AA91205C632CDFDB0E6E36C25A0109</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW_CoreAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
